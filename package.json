@@ -72,5 +72,7 @@
       }
     }
   },
-  "dependencies": {}
+  "dependencies": {
+    "lit-html": "^1.0.0"
+  }
 }
